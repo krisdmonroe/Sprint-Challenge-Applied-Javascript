@@ -30,13 +30,25 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. What is the DOM?
 
+Document obect model.
+
 2. What is an event?
+
+Somethig like mouseenter or click is an event.
 
 3. What is an event listener?
 
+The even listener listen for an event such as click and then emits that event.
+
 4. Why would we convert a NodeList into an Array?
 
+To loop it through your componenet.
+
+
 5. What is a component?
+
+A reusable set of logic, behaviors and interface elements.
+
 
 ### Git Set up
 
